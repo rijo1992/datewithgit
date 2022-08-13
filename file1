@@ -1,2 +1,6 @@
 file1
+<<<<<<< HEAD
 Hello all how are you
+=======
+this is the second edit og this file by Rijo Thomas
+>>>>>>> master
